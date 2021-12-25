@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/container.cpp
+container.h
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/container.h
+string
+-
+iostream
+-
+utility
+-
+
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/container.h
+stdio.h
+-
+pthread.h
+-
+semaphore.h
+-
+unistd.h
+-
+mutex
+-
+
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/main.cpp
+stdio.h
+-
+pthread.h
+-
+semaphore.h
+-
+mutex
+-
+iostream
+-
+container.h
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/container.h
+

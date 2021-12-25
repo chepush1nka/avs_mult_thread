@@ -1,0 +1,3 @@
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pavelvalcev/Downloads/mul_avd_thread 2/cmake-build-debug/CMakeFiles/mul_avd_thread.dir
